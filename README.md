@@ -1,20 +1,11 @@
 # README
 
-## Janina Mohr
-**Built date:** Early 2012
+## Styles for Google Maps
+**Built date:** Early 2016
 
-**Website URL:**
+Collection of custom styles for Google Maps
 
-Portfolio website of designer Janina Mohr.
-
-### Technologies and tools used:
-
-- PHP
-- XHTML
-- CSS
-- JavaScript
-- AJAX (Mootools libraries)
-- Adobe Photoshop
+Styles taken from [Snazzy Maps](https://snazzymaps.com)
 
 ## Author
 
